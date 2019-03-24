@@ -9,7 +9,7 @@ Run Application.java<br />
 Try URL: http://localhost:8080/parse for sample file<br />
 
 ## Testing
-http://localhost:8080/parse?filepath=&lt;absolute file path&gt;<br />
+http://localhost:8080/parse?filepath=&lt; absolute file path&gt;<br />
 
 ## Deployment
 
